@@ -1,0 +1,2 @@
+msg = "oi"
+print(msg)
